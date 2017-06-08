@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-color: red;
+
+}
+
+.app {
+position: relative;
+}
+table {
+   border: 1px solid black;
+   height: 30em;
+   width: 30em;
+   padding: 15px;
+
+
+}
+
+button {
+  height: 100%;
+  width: 100%;
+  font-size: 40px;
+}
+
